@@ -11,6 +11,14 @@ package universitas;
  */
 public class MahasiwaBeraksi {
    public static void main(String[] args) {  
-       
+       Mahasiswa najma = new Mahasiswa("2110010631, Najmaraissa Azhar");
+        
+       najma.setNama ("Najmaraissa");
+       najma.setNpm ("210010631");
+       najma.setProdi (TI);
+        
+        System.out.println("Nama:" + najma.getNama());
+        System.out.println("Npm:" + najma.getNpm());
+        System.out.println("Prodi:" + najma.getProdi());
    }
 }
