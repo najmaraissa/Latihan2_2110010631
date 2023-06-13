@@ -10,5 +10,6 @@ package universitas;
  * @author Nazma
  */
 public class Mahasiswa {
-    
+   String npm, nama, prodi;
+
 }

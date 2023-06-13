@@ -10,5 +10,7 @@ package universitas;
  * @author Nazma
  */
 public class MahasiwaBeraksi {
-    
+   public static void main(String[] args) {  
+       
+   }
 }
